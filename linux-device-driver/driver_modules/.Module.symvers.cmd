@@ -1,1 +1,0 @@
-savedcmd_/home/ubuntu/Home/linux-device-driver/driver_modules/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntu/Home/linux-device-driver/driver_modules/Module.symvers -T /home/ubuntu/Home/linux-device-driver/driver_modules/modules.order -i Module.symvers -e 

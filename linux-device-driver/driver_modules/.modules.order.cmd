@@ -1,1 +1,0 @@
-savedcmd_/home/ubuntu/Home/linux-device-driver/driver_modules/modules.order := {   echo /home/ubuntu/Home/linux-device-driver/driver_modules/read_module_for_proc.o; :; } > /home/ubuntu/Home/linux-device-driver/driver_modules/modules.order
